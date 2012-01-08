@@ -1,0 +1,15 @@
+Metadata-Version: 1.0
+Name: STEPS
+Version: 1.3.0
+Summary: STochastic Engine for Pathway Simulation
+Home-page: http://steps.sourceforge.net
+Author: STEPS Development Team
+Author-email: steps.dev@gmail.com
+License: GNU General Public License Version 3.0
+Download-URL: http://sourceforge.net/projects/steps/files/src
+Description: UNKNOWN
+Platform: Mac OS X
+Platform: Windows XP
+Platform: Windows Vista
+Platform: Linux
+Platform: Unix
